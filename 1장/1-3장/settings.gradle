@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='DoIt Android 예제1) button_onclick'
