@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">DoIt Android 예제1) button_onclick</string>
-    <string name="onButton1">안녕 안드로이드!</string>
-    <string name="눌러">눌러봐!</string>
-    <string name="naver">네이버접속하기</string>
-    <string name="button">Button</string>
-</resources>
