@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextView_sample</string>
+    <string name="person_name">황진호</string>
+</resources>
